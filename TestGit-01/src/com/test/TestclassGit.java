@@ -1,10 +1,11 @@
 package com.test;
 
-public class TestClass {
+public class TestclassGit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-         System.out.println("Hello world-01");
+		System.out.println("im feeling lucky");
+
 	}
 
 }
